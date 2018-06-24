@@ -39,9 +39,10 @@ ol, ul {
 
 #backToTop{
 	position:sticky;
-	bottom:0;
-	width:20%;
+	bottom:1px;
+	width:15%;
 	text-align: center;
+	height:auto;
 }
 
 blockquote, q {
