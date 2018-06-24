@@ -37,6 +37,13 @@ ol, ul {
 	list-style: none;
 }
 
+#backToTop{
+	position:sticky;
+	bottom:0;
+	width:20%;
+	text-align: center;
+}
+
 blockquote, q {
 	quotes: none;
 }
@@ -1628,12 +1635,12 @@ input, select, textarea {
 	}
 
 		.image img {
-			display: block;
+			display: inline-block;
 			width: 100%;
 		}
 
 		.image.fit {
-			display: block;
+			display: inline-block;
 			width: 100%;
 		}
 
