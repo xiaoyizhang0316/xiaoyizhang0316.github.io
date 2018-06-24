@@ -299,7 +299,7 @@ input, select, textarea {
 		align-items: stretch;
 	}
 
-	.portf{
+	#portf{
 		height:550px;
 		overflow: scroll;
 	}
