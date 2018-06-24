@@ -38,6 +38,7 @@ ol, ul {
 }
 
 #backToTop{
+	position: -webkit-sticky;
 	position:sticky;
 	bottom:1px;
 	width:15%;
