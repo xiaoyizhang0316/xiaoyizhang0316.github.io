@@ -1638,9 +1638,11 @@ input, select, textarea {
 		}
 
 		.image.featured {
-			display: block;
+			display: inline-block;
 			width: 100%;
 			margin: 0 0 2em 0;
+			height:200px;
+			overflow: hidden;
 		}
 
 		.image.left {
