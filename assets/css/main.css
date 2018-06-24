@@ -299,6 +299,11 @@ input, select, textarea {
 		align-items: stretch;
 	}
 
+	.portf{
+		height:550px;
+		overflow: scroll;
+	}
+
 		.row > * {
 			box-sizing: border-box;
 		}
